@@ -1,0 +1,4 @@
+torch
+einops
+torchvision
+opencv-python
